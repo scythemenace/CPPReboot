@@ -15,6 +15,6 @@ Welcome to **CPPReboot**! This repository is designed to be a comprehensive, beg
 - **Structured Learning:** Organized content to help you navigate and revisit concepts effectively.
 
 ## Reference
-- These files were written by documenting what was being taught by Extern Code in one of his video. The link to the video is as follows:- (C++ Tutorial From Basic to Advanced)[https://www.youtube.com/watch?v=mUQZ1qmKlLY&ab_channel=ExternCode]
+- These files were written by documenting what was being taught by Extern Code in one of his video. The link to the video is as follows: https://www.youtube.com/watch?v=mUQZ1qmKlLY&ab_channel=ExternCode
 
 Feel free to explore and utilize these resources to enhance your C++ skills. For any questions or feedback, don't to reach out to me as I am sleep-deprived and don't care. Haha JK, happy coding!
