@@ -1,0 +1,2 @@
+# CPPReboot
+ CPPReboot provides a beginner-friendly, hands-on resource for those returning to C++ after a break. It offers well-commented code examples that refresh core concepts without the slow pace of traditional courses for those who already have learnt it somewhere before but just want a quick refresher. It's great for beginners as well since the comments are written in an extremely beginner friendly manner.
