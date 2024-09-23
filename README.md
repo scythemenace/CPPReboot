@@ -1,4 +1,4 @@
-# CPPReboot 🚀
+# CPPReboot
 
 Welcome to **CPPReboot**! This repository is designed to be a comprehensive, beginner-friendly resource for those returning to C++. It features a collection of well-commented code examples organized into specific folders to refresh core concepts efficiently.
 
